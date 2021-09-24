@@ -1,0 +1,46 @@
+.services {
+    margin-bottom: 130px;
+}
+
+ul.services__list {
+    display: flex;
+}
+
+li.services__item {
+    width: 33%;
+    min-height: 476px;
+    background-color: #fff;
+    color: #666666;
+    border-radius: 5px;
+    margin: 25px;
+    padding: 22px; 
+}
+
+.services__img{
+    padding: 36px 0 30px;
+}
+
+h3.services__title {
+    font-size: 32px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 17px; 
+}
+
+.services__adout {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.services__adout b {
+    color: #000;
+}
+
+.services__description {
+    font-size:  14px;
+    margin-bottom: 29px;
+}
+
+.services__link button {
+    color: #000;
+}
