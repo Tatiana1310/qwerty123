@@ -74,8 +74,7 @@
 }
 
 .pager__item--active .pager__link {
-    background: #353538;
-
+    background: #ff5500;
 }
 
 .pager__link {
