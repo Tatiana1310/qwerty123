@@ -16,7 +16,7 @@ li.services__item {
     padding: 22px; 
 }
 
-.services__img{
+.services__img {
     padding: 36px 0 30px;
 }
 
@@ -67,13 +67,11 @@ background: url("../../img/top-line.png") right 1% top no-repeat;
     font-size: 72px;
     line-height: 98px;
     margin-bottom: 25px;
-
 }
 
 .breadcrumbs__list {
     display: flex;
     align-items: center;
-
 }
 
 .breadcrumbs__item {
@@ -105,7 +103,7 @@ padding: 95px 0;
 
 .service {
     display: flex;
-    padding: 50px 56px;
+    padding: 50px 20px;
     text-decoration: none;
 }
 
@@ -113,7 +111,6 @@ padding: 95px 0;
     width: 460px;
     height: 333px;
     margin-right: 7%;
-
 }
 
 .service__content {
