@@ -72,6 +72,7 @@ background: url("../../img/top-line.png") right 1% top no-repeat;
 .breadcrumbs__list {
     display: flex;
     align-items: center;
+    margin-bottom: 27.5px;
 }
 
 .breadcrumbs__item {
