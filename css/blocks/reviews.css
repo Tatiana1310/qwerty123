@@ -4,6 +4,9 @@
     margin-bottom: 76px;
 }
 
+.page-title {
+    text-transform: uppercase;
+}
 
 .review {
     display: inline-flex;
@@ -206,4 +209,8 @@ button {
 
 .form__btn {
     margin-right: 13px;
+}
+
+.form__btn:last-child {
+    margin-right: 0px;
 }
